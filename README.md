@@ -1,11 +1,12 @@
 # CUPID
 
 _This is russian translation._
-Original post: https://dannorth.net/cupid-for-joyful-coding
-Author: https://mas.to/@tastapod
 
-Автор перевода: https://t.me/noncommunicado
-Подписывайтесь: https://t.me/Dev4Devs
+Original post: https://dannorth.net/cupid-for-joyful-coding  
+Author: https://mas.to/@tastapod  
+
+Автор перевода: https://t.me/noncommunicado  
+Подписывайтесь: https://t.me/Dev4Devs  
 
 # Введение
 
